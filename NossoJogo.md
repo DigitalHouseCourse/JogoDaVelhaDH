@@ -5,8 +5,9 @@
 
 | -  |  A     | B     | C     |
 | -- | :---:  | :---: | :---: |
-| 1  | X      | W     | X     |
-| 2  | O      | X     | W     |
+| 1  | X      | -     | X     |
+| 2  | O      | X     | -     |
 | 3  | X      | O     | O     |
 
 #### Vencedora : Fabiana Sayuri \o/
+
